@@ -36,3 +36,6 @@ Future Improvements:
 Radar visualization using Processing or Python
 Object tracking system
 3D printed radar housing
+
+IMPORTANT NOTE:
+In the image, the simulation depicts the HC-SR04 sensor not planted on the Servo due to simulation limitations. However, note that in the real world, the HC-SR0V is able to be planted on the Servo and rotate with it, allowing the project to work at its fullest.
